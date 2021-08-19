@@ -44,3 +44,4 @@ function verifyPin(){
         notifyFail.style.display = 'block';
     }
 }
+
